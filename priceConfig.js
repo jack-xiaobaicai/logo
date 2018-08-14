@@ -4,6 +4,6 @@
 "code":200,
 "data":
 [
-{"onemonth":"1.1","threemonth":"1.3","oneyear":"1.4"}
+{"onemonth":"5.88","threemonth":"8.88","oneyear":"18.88"}
 ]
 }
