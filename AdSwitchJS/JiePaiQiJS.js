@@ -2,73 +2,37 @@
   "status": true,
   "code": 200,
   "data": {
+    "xiaomi": {
+      "isShowSplashAd": true,
+      "isShowHomeBanner": true,
+      "isShowHomeTuia": true,
+      "isShowSettingBanner": true,
+      "isShowJiePaiBanner": true,
+      "isShowYinSeBanner": true
+    },
     "vivo": {
-      "shoujiemain": {
-        "banner": {
-          "isshowbanner": true,
-          "zidingyibanner": true,
-          "zidngyibannnerimageurl": "www.baidu.com"
-        },
-        "splash": {
-          "isshowsplash": true,
-          "zidingyisplash": true,
-          "zidngyisplashimageurl": "www.baidu.com"
-        },
-        "tuia": {
-          "isshowtuia": true,
-          "zidingyituia": true,
-          "zidngyituiaimageurl": "www.baidu.com"
-        },
-        "quanping": {
-          "isshowquanping": true,
-          "zidingyiquanping": true,
-          "zidngyiquanpingimageurl": "www.baidu.com"
-        }
-      },
-      "edit": {
-        "banner": {
-          "isshowbanner": true,
-          "zidingyibanner": true,
-          "zidngyibannnerimageurl": "www.baidu.com"
-        },
-        "splash": {
-          "isshowsplash": true,
-          "zidingyisplash": true,
-          "zidngyisplashimageurl": "www.baidu.com"
-        },
-        "tuia": {
-          "isshowtuia": true,
-          "zidingyituia": true,
-          "zidngyituiaimageurl": "www.baidu.com"
-        },
-        "quanping": {
-          "isshowquanping": true,
-          "zidingyiquanping": true,
-          "zidngyiquanpingimageurl": "www.baidu.com"
-        }
-      },
-      "save": {
-        "banner": {
-          "isshowbanner": true,
-          "zidingyibanner": true,
-          "zidngyibannnerimageurl": "www.baidu.com"
-        },
-        "splash": {
-          "isshowsplash": true,
-          "zidingyisplash": true,
-          "zidngyisplashimageurl": "www.baidu.com"
-        },
-        "tuia": {
-          "isshowtuia": true,
-          "zidingyituia": true,
-          "zidngyituiaimageurl": "www.baidu.com"
-        },
-        "quanping": {
-          "isshowquanping": true,
-          "zidingyiquanping": true,
-          "zidngyiquanpingimageurl": "www.baidu.com"
-        }
-      }
+      "isShowSplashAd": true,
+      "isShowHomeBanner": true,
+      "isShowHomeTuia": true,
+      "isShowSettingBanner": true,
+      "isShowJiePaiBanner": true,
+      "isShowYinSeBanner": true
+    },
+    "oppo": {
+      "isShowSplashAd": true,
+      "isShowHomeBanner": true,
+      "isShowHomeTuia": true,
+      "isShowSettingBanner": true,
+      "isShowJiePaiBanner": true,
+      "isShowYinSeBanner": true
+    },
+    "huawei": {
+      "isShowSplashAd": true,
+      "isShowHomeBanner": true,
+      "isShowHomeTuia": true,
+      "isShowSettingBanner": true,
+      "isShowJiePaiBanner": true,
+      "isShowYinSeBanner": true
     }
   }
 }
