@@ -37,12 +37,12 @@
         {
             "falvor": "oppo",
             "isShowTenXunSplashAd": true,
-            "isShowHomeTenXunBanner": true,
+            "isShowHomeTenXunBanner": false,
             "isShowFloatTuia": true,
             "isRefresh": true,
             "frequency": 20,
             "showFrequency": 20,
-            "isShowSettingTenXunBanner": true,
+            "isShowSettingTenXunBanner": false,
             "isShowJiePaiTenXunBanner": true,
             "isShowYinSeTenXunBanner": true,
             "tuiaImageUrl": [
