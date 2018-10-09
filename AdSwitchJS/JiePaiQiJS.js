@@ -1,92 +1,77 @@
 {
     "status": true,
     "code": 200,
-    "data": {
-        "xiaomi": {
+    "data": [
+        {
+            "falvor": "xiaomi",
             "isShowTenXunSplashAd": true,
             "isShowHomeTenXunBanner": true,
-            "HomeFloatTuia": {
-                "isShowFloatTuia": true,
-                "refreshXiaomiTuia": {
-                    "isRefresh": true,
-                    "frequency": 20
-                },
-                "showFrequency": 20,
-                "tuiaImageUrl": [
-                    "www.baidu.com",
-                    "www.baidu.com"
-                ]
-            },
+            "isShowFloatTuia": true,
+            "isRefresh": true,
+            "frequency": 20,
+            "showFrequency": 20,
             "isShowSettingTenXunBanner": true,
             "isShowJiePaiTenXunBanner": true,
-            "isShowYinSeTenXunBanner": true
+            "isShowYinSeTenXunBanner": true,
+            "tuiaImageUrl": [
+                "www.baidu.com",
+                "www.baidu.com"
+            ]
         },
-        "vivo": {
+        {
+            "falvor": "vivo",
             "isShowTenXunSplashAd": true,
             "isShowHomeTenXunBanner": true,
-            "HomeFloatTuia": {
-                "isShowFloatTuia": true,
-                "refreshVivoTuia": {
-                    "isRefresh": true,
-                    "frequency": 20
-                },
-                "showFrequency": 20,
-                "tuiaImageUrl": [
-                    "www.baidu.com",
-                    "www.baidu.com"
-                ]
-            },
+            "isShowFloatTuia": true,
+            "isRefresh": true,
+            "frequency": 20,
+            "showFrequency": 20,
             "isShowSettingTenXunBanner": true,
             "isShowJiePaiTenXunBanner": true,
-            "isShowYinSeTenXunBanner": true
+            "isShowYinSeTenXunBanner": true,
+            "tuiaImageUrl": [
+                "www.baidu.com",
+                "www.baidu.com"
+            ]
         },
-        "oppo": {
+        {
+            "falvor": "oppo",
             "isShowTenXunSplashAd": true,
             "isShowHomeTenXunBanner": true,
-            "HomeFloatTuia": {
-                "isShowFloatTuia": true,
-                "refreshOppoTuia": {
-                    "isRefresh": true,
-                    "frequency": 20
-                },
-                "showFrequency": 20,
-                "tuiaImageUrl": [
-                    "www.baidu.com",
-                    "www.baidu.com"
-                ]
-            },
+            "isShowFloatTuia": true,
+            "isRefresh": true,
+            "frequency": 20,
+            "showFrequency": 20,
             "isShowSettingTenXunBanner": true,
             "isShowJiePaiTenXunBanner": true,
-            "isShowYinSeTenXunBanner": true
+            "isShowYinSeTenXunBanner": true,
+            "tuiaImageUrl": [
+                "www.baidu.com",
+                "www.baidu.com"
+            ]
         },
-        "huawei": {
-            "TuiaSplashAd": {
-                "isShowTuiaSplashAd": true,
-                "refreshSplash": {
-                    "isRefresh": true,
-                    "frequency": 20
-                },
-                "splashImageUrl": [
-                    "www.baidu.com",
-                    "www.baidu.com"
-                ]
-            },
-            "isShowHomeTenXunBanner": false,
-            "HomeFloatTuia": {
-                "isShowFloatTuia": true,
-                "refreshHuaweiTuia": {
-                    "isRefresh": true,
-                    "frequency": 20
-                },
-                "showFrequency": 20,
-                "tuiaImageUrl": [
-                    "www.baidu.com",
-                    "www.baidu.com"
-                ]
-            },
-            "isShowSettingTenXunBanner": false,
-            "isShowJiePaiTenXunBanner": false,
-            "isShowYinSeTenXunBanner": false
+        {
+            "falvor": "huawei",
+            "isShowTuiaSplashAd": true,
+            "isShowHomeTenXunBanner": true,
+            "isShowFloatTuia": true,
+            "isShowSettingTenXunBanner": true,
+            "isShowJiePaiTenXunBanner": true,
+            "isShowYinSeTenXunBanner": true,
+            "showSplashFrequency": 20,
+            "isSplashRefresh": true,
+            "Splashfrequency": 20,
+            "showTuiaFrequency": 20,
+            "isTuiaRefresh": true,
+            "Tuiafrequency": 20,
+            "tuiaImageUrl": [
+                "www.baidu.com",
+                "www.baidu.com"
+            ],
+            "splashImageUrl": [
+                "www.baidu.com",
+                "www.baidu.com"
+            ]
         }
-    }
+    ]
 }
