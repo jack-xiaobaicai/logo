@@ -28,11 +28,11 @@
     },
     "huawei": {
       "isShowSplashAd": true,
-      "isShowHomeBanner": true,
+      "isShowHomeBanner": false,
       "isShowHomeTuia": true,
-      "isShowSettingBanner": true,
-      "isShowJiePaiBanner": true,
-      "isShowYinSeBanner": true
+      "isShowSettingBanner": false,
+      "isShowJiePaiBanner": false,
+      "isShowYinSeBanner": false
     }
   }
 }
