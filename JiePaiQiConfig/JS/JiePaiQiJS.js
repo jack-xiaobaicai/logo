@@ -68,8 +68,11 @@
                 "https://raw.githubusercontent.com/jack-xiaobaicai/logo/master/JiePaiQiConfig/customTuiaPic/customTuia1-3.gif"
             ],
             "splashImageUrl": [
-                "www.baidu.com",
-                "www.baidu.com"
+                "http://yun.tuitiger.com/mami-media/img/nqpm022m9a.jpg",
+                "http://yun.tuitiger.com/mami-media/img/h8p3eo835n.jpg",
+                "http://yun.tuitiger.com/mami-media/img/grv4kmu0ax.jpg",
+                "http://yun.tuitiger.com/mami-media/img/kmqollmkm6.png",
+                "http://yun.tuitiger.com/mami-media/img/ba1ybxgdf7.jpg"
             ]
         }
     ]
