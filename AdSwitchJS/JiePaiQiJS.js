@@ -14,8 +14,9 @@
             "isShowJiePaiTenXunBanner": true,
             "isShowYinSeTenXunBanner": true,
             "tuiaImageUrl": [
-                "www.baidu.com",
-                "www.baidu.com"
+                "https://yun.tuitiger.com/mami-media/img/mzzwmvzedi.gif",
+                "https://yun.tuitiger.com/mami-media/img/onbi9xg7uc.gif",
+                "https://yun.tuitiger.com/mami-media/img/vgpvrxxgmz.gif"
             ]
         },
         {
@@ -30,8 +31,9 @@
             "isShowJiePaiTenXunBanner": true,
             "isShowYinSeTenXunBanner": true,
             "tuiaImageUrl": [
-                "www.baidu.com",
-                "www.baidu.com"
+                "https://yun.tuitiger.com/mami-media/img/mzzwmvzedi.gif",
+                "https://yun.tuitiger.com/mami-media/img/onbi9xg7uc.gif",
+                "https://yun.tuitiger.com/mami-media/img/vgpvrxxgmz.gif"
             ]
         },
         {
@@ -46,8 +48,9 @@
             "isShowJiePaiTenXunBanner": true,
             "isShowYinSeTenXunBanner": true,
             "tuiaImageUrl": [
-                "www.baidu.com",
-                "www.baidu.com"
+                "https://yun.tuitiger.com/mami-media/img/mzzwmvzedi.gif",
+                "https://yun.tuitiger.com/mami-media/img/onbi9xg7uc.gif",
+                "https://yun.tuitiger.com/mami-media/img/vgpvrxxgmz.gif"
             ]
         },
         {
@@ -65,8 +68,9 @@
             "isTuiaRefresh": true,
             "Tuiafrequency": 20,
             "tuiaImageUrl": [
-                "www.baidu.com",
-                "www.baidu.com"
+                "https://yun.tuitiger.com/mami-media/img/mzzwmvzedi.gif",
+                "https://yun.tuitiger.com/mami-media/img/onbi9xg7uc.gif",
+                "https://yun.tuitiger.com/mami-media/img/vgpvrxxgmz.gif"
             ],
             "splashImageUrl": [
                 "www.baidu.com",
