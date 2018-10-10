@@ -14,10 +14,9 @@
             "isShowJiePaiTenXunBanner": true,
             "isShowYinSeTenXunBanner": true,
             "tuiaImageUrl": [
-                "https://yun.tuitiger.com/mami-media/img/mzzwmvzedi.gif",
-                "https://yun.tuitiger.com/mami-media/img/onbi9xg7uc.gif",
-                "https://yun.tuitiger.com/mami-media/img/vgpvrxxgmz.gif",
-                "https://yun.tuitiger.com/mami-media/img/hxh9g2m5hk.png"
+                "https://raw.githubusercontent.com/jack-xiaobaicai/logo/master/JiePaiQiConfig/customTuiaPic/customTuia1-1.gif",
+                "https://raw.githubusercontent.com/jack-xiaobaicai/logo/master/JiePaiQiConfig/customTuiaPic/customTuia1-2.gif",
+                "https://raw.githubusercontent.com/jack-xiaobaicai/logo/master/JiePaiQiConfig/customTuiaPic/customTuia1-3.gif"
             ]
         },
         {
@@ -32,10 +31,9 @@
             "isShowJiePaiTenXunBanner": true,
             "isShowYinSeTenXunBanner": true,
             "tuiaImageUrl": [
-                "https://yun.tuitiger.com/mami-media/img/mzzwmvzedi.gif",
-                "https://yun.tuitiger.com/mami-media/img/onbi9xg7uc.gif",
-                "https://yun.tuitiger.com/mami-media/img/vgpvrxxgmz.gif",
-                "https://yun.tuitiger.com/mami-media/img/hxh9g2m5hk.png"
+                "https://raw.githubusercontent.com/jack-xiaobaicai/logo/master/JiePaiQiConfig/customTuiaPic/customTuia1-1.gif",
+                "https://raw.githubusercontent.com/jack-xiaobaicai/logo/master/JiePaiQiConfig/customTuiaPic/customTuia1-2.gif",
+                "https://raw.githubusercontent.com/jack-xiaobaicai/logo/master/JiePaiQiConfig/customTuiaPic/customTuia1-3.gif"
             ]
         },
         {
@@ -50,10 +48,9 @@
             "isShowJiePaiTenXunBanner": true,
             "isShowYinSeTenXunBanner": true,
             "tuiaImageUrl": [
-                "https://yun.tuitiger.com/mami-media/img/mzzwmvzedi.gif",
-                "https://yun.tuitiger.com/mami-media/img/onbi9xg7uc.gif",
-                "https://yun.tuitiger.com/mami-media/img/vgpvrxxgmz.gif",
-                "https://yun.tuitiger.com/mami-media/img/hxh9g2m5hk.png"
+                "https://raw.githubusercontent.com/jack-xiaobaicai/logo/master/JiePaiQiConfig/customTuiaPic/customTuia1-1.gif",
+                "https://raw.githubusercontent.com/jack-xiaobaicai/logo/master/JiePaiQiConfig/customTuiaPic/customTuia1-2.gif",
+                "https://raw.githubusercontent.com/jack-xiaobaicai/logo/master/JiePaiQiConfig/customTuiaPic/customTuia1-3.gif"
             ]
         },
         {
@@ -71,10 +68,9 @@
             "isTuiaRefresh": true,
             "Tuiafrequency": 20,
             "tuiaImageUrl": [
-                "https://yun.tuitiger.com/mami-media/img/mzzwmvzedi.gif",
-                "https://yun.tuitiger.com/mami-media/img/onbi9xg7uc.gif",
-                "https://yun.tuitiger.com/mami-media/img/vgpvrxxgmz.gif",
-                "https://yun.tuitiger.com/mami-media/img/hxh9g2m5hk.png"
+                "https://raw.githubusercontent.com/jack-xiaobaicai/logo/master/JiePaiQiConfig/customTuiaPic/customTuia1-1.gif",
+                "https://raw.githubusercontent.com/jack-xiaobaicai/logo/master/JiePaiQiConfig/customTuiaPic/customTuia1-2.gif",
+                "https://raw.githubusercontent.com/jack-xiaobaicai/logo/master/JiePaiQiConfig/customTuiaPic/customTuia1-3.gif"
             ],
             "splashImageUrl": [
                 "www.baidu.com",
