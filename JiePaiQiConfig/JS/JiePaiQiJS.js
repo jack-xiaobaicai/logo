@@ -65,7 +65,7 @@
             "isSplashRefresh": true,
             "Splashfrequency": 20,
             "showTuiaFrequency": 20,
-            "isTuiaRefresh": true,
+            "isRefresh": true,
             "Tuiafrequency": 20,
             "tuiaImageUrl": [
                 "https://raw.githubusercontent.com/jack-xiaobaicai/logo/master/JiePaiQiConfig/customTuiaPic/customTuia1-1.gif",
