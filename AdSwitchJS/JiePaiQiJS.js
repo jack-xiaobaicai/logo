@@ -16,7 +16,8 @@
             "tuiaImageUrl": [
                 "https://yun.tuitiger.com/mami-media/img/mzzwmvzedi.gif",
                 "https://yun.tuitiger.com/mami-media/img/onbi9xg7uc.gif",
-                "https://yun.tuitiger.com/mami-media/img/vgpvrxxgmz.gif"
+                "https://yun.tuitiger.com/mami-media/img/vgpvrxxgmz.gif",
+                "https://yun.tuitiger.com/mami-media/img/hxh9g2m5hk.png"
             ]
         },
         {
@@ -33,7 +34,8 @@
             "tuiaImageUrl": [
                 "https://yun.tuitiger.com/mami-media/img/mzzwmvzedi.gif",
                 "https://yun.tuitiger.com/mami-media/img/onbi9xg7uc.gif",
-                "https://yun.tuitiger.com/mami-media/img/vgpvrxxgmz.gif"
+                "https://yun.tuitiger.com/mami-media/img/vgpvrxxgmz.gif",
+                "https://yun.tuitiger.com/mami-media/img/hxh9g2m5hk.png"
             ]
         },
         {
@@ -50,7 +52,8 @@
             "tuiaImageUrl": [
                 "https://yun.tuitiger.com/mami-media/img/mzzwmvzedi.gif",
                 "https://yun.tuitiger.com/mami-media/img/onbi9xg7uc.gif",
-                "https://yun.tuitiger.com/mami-media/img/vgpvrxxgmz.gif"
+                "https://yun.tuitiger.com/mami-media/img/vgpvrxxgmz.gif",
+                "https://yun.tuitiger.com/mami-media/img/hxh9g2m5hk.png"
             ]
         },
         {
@@ -70,7 +73,8 @@
             "tuiaImageUrl": [
                 "https://yun.tuitiger.com/mami-media/img/mzzwmvzedi.gif",
                 "https://yun.tuitiger.com/mami-media/img/onbi9xg7uc.gif",
-                "https://yun.tuitiger.com/mami-media/img/vgpvrxxgmz.gif"
+                "https://yun.tuitiger.com/mami-media/img/vgpvrxxgmz.gif",
+                "https://yun.tuitiger.com/mami-media/img/hxh9g2m5hk.png"
             ],
             "splashImageUrl": [
                 "www.baidu.com",
