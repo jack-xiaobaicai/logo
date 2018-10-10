@@ -52,9 +52,9 @@
         },
         {
             "falvor": "huawei",
-            "isShowTuiaSplashAd": true,
+            "isShowTuiaSplashAd": false,
             "isShowHomeTenXunBanner": false,
-            "isShowFloatTuia": true,
+            "isShowFloatTuia": false,
             "isShowSettingTenXunBanner": false,
             "isShowJiePaiTenXunBanner": false,
             "isShowYinSeTenXunBanner": false,
