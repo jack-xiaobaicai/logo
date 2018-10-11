@@ -4,7 +4,7 @@
     "data": [
         {
             "falvor": "xiaomi",
-            "isShowTenXunSplashAd": false,
+            "isShowTenXunSplashAd": true,
             "isShowHomeTenXunBanner": true,
             "isShowFloatTuia": true,
             "isRefresh": true,
