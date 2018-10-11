@@ -1,7 +1,7 @@
 {
 	"status": true,
 	"code": 200,
-	"data": [{
+	"data": {
 		"falvor": "huawei",
 		"isShowAdHintDialog": false,
 		"isShowTuiaSplashAd": true,
@@ -23,5 +23,5 @@
 			"http://yun.tuitiger.com/mami-media/img/kmqollmkm6.png",
 			"http://yun.tuitiger.com/mami-media/img/ba1ybxgdf7.jpg"
 		]
-	}]
+	}
 }
