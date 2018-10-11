@@ -1,7 +1,7 @@
 {
 	"status": true,
 	"code": 200,
-	"data": [{
+	"data": {
 		"falvor": "oppo",
 		"isShowAdHintDialog": true,
 		"isShowTenXunSplashAd": true,
@@ -21,5 +21,5 @@
 			"https://raw.githubusercontent.com/jack-xiaobaicai/logo/master/JiePaiQiConfig/customTuiaPic/customTuia1-2.gif",
 			"https://raw.githubusercontent.com/jack-xiaobaicai/logo/master/JiePaiQiConfig/customTuiaPic/customTuia1-3.gif"
 		]
-	}]
+	}
 }
