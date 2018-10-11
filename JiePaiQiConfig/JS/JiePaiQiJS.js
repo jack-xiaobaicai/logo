@@ -20,7 +20,7 @@
         },
         {
             "falvor": "vivo",
-            "isShowTenXunSplashAd": true,
+            "isShowTenXunSplashAd": false,
             "isShowHomeTenXunBanner": true,
             "isShowFloatTuia": true,
             "isRefresh": true,
