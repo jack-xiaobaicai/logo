@@ -5,7 +5,6 @@
 		"falvor": "huawei",
 		"isCloseAdHintDialog": true,
 		"isCloseTuiaSplashAd": false,
-		"isCloseHomeTenXunBanner": true,
 		"isCloseMianFloatTuia": false,
 		"showSplashFrequency": 0,
 		"isSplashRefresh": true,
