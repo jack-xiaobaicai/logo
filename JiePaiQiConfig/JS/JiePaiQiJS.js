@@ -90,6 +90,38 @@
                 "https://raw.githubusercontent.com/jack-xiaobaicai/logo/master/JiePaiQiConfig/customTuiaPic/customTuia1-2.gif",
                 "https://raw.githubusercontent.com/jack-xiaobaicai/logo/master/JiePaiQiConfig/customTuiaPic/customTuia1-3.gif"
             ]
+        },
+        {
+            "falvor": "baidu",
+            "isShowTenXunSplashAd": true,
+            "isShowHomeTenXunBanner": true,
+            "isShowFloatTuia": true,
+            "isRefresh": true,
+            "showFrequency": 0,
+            "isShowSettingTenXunBanner": true,
+            "isShowJiePaiTenXunBanner": true,
+            "isShowYinSeTenXunBanner": true,
+            "tuiaImageUrl": [
+                "https://raw.githubusercontent.com/jack-xiaobaicai/logo/master/JiePaiQiConfig/customTuiaPic/customTuia1-1.gif",
+                "https://raw.githubusercontent.com/jack-xiaobaicai/logo/master/JiePaiQiConfig/customTuiaPic/customTuia1-2.gif",
+                "https://raw.githubusercontent.com/jack-xiaobaicai/logo/master/JiePaiQiConfig/customTuiaPic/customTuia1-3.gif"
+            ]
+        },
+        {
+            "falvor": "qihu360",
+            "isShowTenXunSplashAd": true,
+            "isShowHomeTenXunBanner": true,
+            "isShowFloatTuia": true,
+            "isRefresh": true,
+            "showFrequency": 0,
+            "isShowSettingTenXunBanner": true,
+            "isShowJiePaiTenXunBanner": true,
+            "isShowYinSeTenXunBanner": true,
+            "tuiaImageUrl": [
+                "https://raw.githubusercontent.com/jack-xiaobaicai/logo/master/JiePaiQiConfig/customTuiaPic/customTuia1-1.gif",
+                "https://raw.githubusercontent.com/jack-xiaobaicai/logo/master/JiePaiQiConfig/customTuiaPic/customTuia1-2.gif",
+                "https://raw.githubusercontent.com/jack-xiaobaicai/logo/master/JiePaiQiConfig/customTuiaPic/customTuia1-3.gif"
+            ]
         }
     ]
 }
